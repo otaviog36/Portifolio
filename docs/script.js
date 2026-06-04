@@ -61,7 +61,7 @@ let hoje = diaAtual + mesAtual + anoAtual;
 // date tempo restante
 let anoFormatura = 2026;
 let mesFormatura = 12;
-let diaFormatura = 30;
+let diaFormatura = 21;
 let anoIngresso = 2025;
 let mesIngresso = 1;
 let diaIngresso = 1;
